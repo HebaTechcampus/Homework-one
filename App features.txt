@@ -1,6 +1,0 @@
-Features of the app that resulted from the ans of the potential users:
-1- Notify the user before the time allowed for parking ends, to avoid parking tickets 
-2- Save the parking location of the car
-3- Filter parking locations to find the perfect spot 
-4- GPS navigation to guide hte user to the parking spot
-5- Allow the user to reserve a parking spot
